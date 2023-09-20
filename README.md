@@ -9,6 +9,7 @@ you need to install:-
 
 Run the following commands.
     - make up  (Starting the project)
+    - make composer-install  (downloading dependencies)
     - make migrate (Migrate the tables)
     - Make seed (Seed the tables)
 
